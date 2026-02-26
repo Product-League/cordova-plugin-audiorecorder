@@ -137,7 +137,7 @@ Play recording screen <br />
     - Danilo Costa, <danilo.costa@outsystems.com>
 - Product League
     - Paulo Solipa, <psolipa@product-league.com>
-    - Pedro Domingues <pdomingues@product-league.com>
+    - Pedro Domingues, <pdomingues@product-league.com>
 
 #### Document author
 - João Gonçalves, <joao.goncalves@outsystems.com>
