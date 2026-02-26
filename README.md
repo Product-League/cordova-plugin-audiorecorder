@@ -135,6 +135,9 @@ Play recording screen <br />
     - Rúben Gonçalves, <ruben.goncalves@outsystems.com>
     - Vitor Oliveira, <vitor.oliveira@outsystems.com>
     - Danilo Costa, <danilo.costa@outsystems.com>
+- Product League
+    - Paulo Solipa, <psolipa@product-league.com>
+    - Pedro Domingues <pdomingues@product-league.com>
 
 #### Document author
 - João Gonçalves, <joao.goncalves@outsystems.com>
